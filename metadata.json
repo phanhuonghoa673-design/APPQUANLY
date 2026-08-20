@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Lớp - Smart Class Management System",
+  "description": "Ứng dụng Quản Lý Lớp Học Thông Minh tích hợp kết nối CSDL Google Sheets cho danh sách lớp học trực tuyến và AI Cố Vấn Giáo Dục.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
